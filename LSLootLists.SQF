@@ -1,11 +1,6 @@
-//	Lootspawner junction lists for classes to spawn-/lootable items
-//	Author: Na_Palm (BIS forums)
-//-------------------------------------------------------------------------------------
 //here place Weapons an usable items (ex.: Binocular, ...)
 //used with addWeaponCargoGlobal
 //"lootWeapon_list" array of [class, [weaponlist]]
-//								class		: 0-civil, 1-military, ... (add more as you wish)
-//								weaponlist	: list of weapon class names
 lootWeapon_list = [
 [ 0, [							// CIVIL
 "arifle_MK20C_F",
