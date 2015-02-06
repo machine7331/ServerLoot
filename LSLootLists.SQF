@@ -191,6 +191,15 @@ lootItem_list = [
 "ChickenCarcass_EPOCH",
 "GoatCarcass_EPOCH",
 "SheepCarcass_EPOCH",
+"U_C_Poloshirt_stripped",
+"U_C_Poloshirt_blue",
+"U_C_Poloshirt_burgundy",
+"U_C_Poloshirt_tricolour",
+"U_C_Poloshirt_salmon",
+"U_C_Poloshirt_redwhite",
+"U_C_Poor_1",
+"U_C_WorkerCoveralls", 
+"U_C_Journalist",
 "ItemCompass",
 "ItemGPS",
 "ItemWatch",
@@ -337,7 +346,29 @@ lootItem_list = [
 "V_39_EPOCH",
 "V_40_EPOCH",
 "wolf_mask_epoch",
-"pkin_mask_epoch"
+"pkin_mask_epoch",
+"U_O_CombatUniform_ocamo",
+"U_O_GhillieSuit",
+"U_O_PilotCoveralls",
+"U_O_Wetsuit",
+"U_OG_Guerilla1_1",
+"U_OG_Guerilla2_1",
+"U_OG_Guerilla2_3",
+"U_OG_Guerilla3_1",
+"U_OG_Guerilla3_2",
+"U_OG_leader",
+"U_Wetsuit_uniform",
+"U_Wetsuit_White",
+"U_Wetsuit_Blue",
+"U_Wetsuit_Purp",
+"U_Wetsuit_Camo",
+"U_CamoRed_uniform",
+"U_CamoBrn_uniform",
+"U_CamoBlue_uniform",
+"U_Camo_uniform",
+"U_ghillie1_uniform",
+"U_ghillie2_uniform",
+"U_ghillie3_uniform"
 ]],[ 2, [						// INDUSTRIAL
 "V_9_EPOCH",
 "V_10_EPOCH",
@@ -350,6 +381,8 @@ lootItem_list = [
 "V_17_EPOCH",
 "V_18_EPOCH",
 "CinderBlocks",
+"U_C_Scientist",
+"U_OrestesBody",
 "MortarBucket",
 "ItemScraps",
 "ItemCorrugated",
@@ -366,7 +399,36 @@ lootItem_list = [
 "KitFoundation",
 "KitCinderWall"
 ]],[ 3, [						// Military
-
+"U_C_Driver_1",
+"U_C_Driver_2",
+"U_C_Driver_3",
+"U_C_Driver_4",
+"U_C_Driver_1_black",
+"U_C_Driver_1_blue",
+"U_C_Driver_1_green",
+"U_C_Driver_1_red", 
+"U_C_Driver_1_white",
+"U_C_Driver_1_yellow",
+"U_C_Driver_1_orange",
+"U_C_Driver_1_red",
+"CinderBlocks",
+"U_C_Scientist",
+"U_OrestesBody",
+"MortarBucket",
+"ItemScraps",
+"ItemCorrugated",
+"ItemCorrugatedLg",
+"PartPlankPack",
+"WoodLog_EPOCH",
+"KitStudWall",
+"KitWoodFloor",
+"KitWoodStairs",
+"KitWoodRamp",
+"KitFirePlace",
+"KitTiPi",
+"KitShelf",
+"KitFoundation",
+"KitCinderWall"
 ]]];
 
 //-------------------------------------------------------------------------------------
@@ -419,3 +481,21 @@ lootBackpack_list = [
 "B_FieldPack_ocamo",
 "B_FieldPack_oli"
 ]]];
+
+lootworldObject_list = [
+[ 0, [							// CIVIL
+
+]],[ 1, [						// MILITARY
+
+]],[ 2, [						// INDUSTRIAL
+
+]],[ 3, [						// RESEARCH
+
+]],[ 4, [						// MEDICAL
+
+]],[ 5, [						// FOOD
+
+]],[ 6, [						// HANGARS
+
+]]
+];
